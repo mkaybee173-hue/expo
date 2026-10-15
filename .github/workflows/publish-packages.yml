@@ -278,4 +278,5 @@ jobs:
         with:
           webhook: ${{ secrets.slack_webhook_api }}
           author_name: Publish Packages
+          job_name: Publish canary packages
           fields: job,message,author,took
