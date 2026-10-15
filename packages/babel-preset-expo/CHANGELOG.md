@@ -1,5 +1,11 @@
 # Changelog
 
+## 58.0.15
+
+### Patch Changes
+
+- [Internal] Drop unused `EXPO_PROJECT_ROOT` and `EXPO_ROUTER_ABS_APP_ROOT` variables and corresponding invalidation. ([#51540](https://github.com/expo/expo/pull/51540) by [@kitten](https://github.com/kitten))
+
 ## 58.0.14
 
 ### Patch Changes

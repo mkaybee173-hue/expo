@@ -1,5 +1,17 @@
 # Changelog
 
+## 58.0.11
+
+### Patch Changes
+
+- [Internal] Drop unused `EXPO_PROJECT_ROOT` and `EXPO_ROUTER_ABS_APP_ROOT` variables and corresponding invalidation. ([#51540](https://github.com/expo/expo/pull/51540) by [@kitten](https://github.com/kitten))
+- Updated dependencies. ([#51456](https://github.com/expo/expo/pull/51456), [#51560](https://github.com/expo/expo/pull/51560), [#51455](https://github.com/expo/expo/pull/51455), [#51302](https://github.com/expo/expo/pull/51302), [#51558](https://github.com/expo/expo/pull/51558), [#51540](https://github.com/expo/expo/pull/51540))
+  - expo-modules-core@58.0.19
+  - expo-asset@58.0.16
+  - @expo/metro-config@58.0.14
+  - babel-preset-expo@58.0.15
+  - @expo/cli@58.1.9
+
 ## 58.0.10
 
 ### Patch Changes

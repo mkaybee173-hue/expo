@@ -1,5 +1,17 @@
 # notification-tester
 
+## 1.0.5
+
+### Patch Changes
+
+- Updated dependencies. ([#51542](https://github.com/expo/expo/pull/51542), [#51459](https://github.com/expo/expo/pull/51459), [#51448](https://github.com/expo/expo/pull/51448), [#51540](https://github.com/expo/expo/pull/51540))
+  - expo-router@58.0.20
+  - @expo/ui@58.0.18
+  - expo@58.0.11
+  - test-suite@1.0.5
+  - native-component-list@0.0.5
+  - expo-updates@58.0.16
+
 ## 1.0.4
 
 ### Patch Changes

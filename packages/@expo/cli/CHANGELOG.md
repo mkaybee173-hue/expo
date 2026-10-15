@@ -1,5 +1,12 @@
 # Changelog
 
+## 58.1.9
+
+### Patch Changes
+
+- Updated dependencies. ([#51540](https://github.com/expo/expo/pull/51540))
+  - @expo/metro-config@58.0.14
+
 ## 58.1.8
 
 ### Patch Changes

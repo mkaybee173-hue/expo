@@ -1,5 +1,12 @@
 # Changelog
 
+## 58.0.20
+
+### Patch Changes
+
+- Disable automatic safe-area measurements on web to preserve streamed content during hydration. ([#51542](https://github.com/expo/expo/pull/51542) by [@hassankhan](https://github.com/hassankhan))
+- Replace ambiguous `null` and `undefined` return values with `RouterActionHandling` enum. ([#51448](https://github.com/expo/expo/pull/51448) by [@Ubax](https://github.com/Ubax))
+
 ## 58.0.19
 
 ### Patch Changes
